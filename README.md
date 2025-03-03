@@ -1,1 +1,1 @@
-# Data-Science-Project-Planning-Stage-Individual-
+# Data-Science-Project-Planning-Stage-Individual
